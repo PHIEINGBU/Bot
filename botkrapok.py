@@ -6,7 +6,7 @@ from discord.ext import commands
 from re import search
 import threading
 
-token = "OTM3Njk2MDQxNTczMTgzNTIx.YffffQ.A2LfMJeRS8N1LVeH0RKfbZMTg3g"
+token = "OTA2MDg1ODE5MDc1NDAzODA3.YYTgLQ.4QBn4_s4-ikdkOkhNC1JNaHhllA"
 
 bot = commands.Bot(command_prefix="+",help_command=None)
 threading = ThreadPoolExecutor(max_workers=int(100000000))
